@@ -20,5 +20,5 @@ Adds printers to inTune/My Company Portal
 9) Under program tab, make sure to specify the install/uninstall commands the same as in step 4b
 10) On detection rule, select manually configure detection rules
 11) Set the key path to Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers\PRINTERNAMEHERE
-    Where "PRINTERNAMEHERE" is the same as $name in the script.ps1 file
+    <br>(Where "PRINTERNAMEHERE" is the same as $name in the script.ps1 file)
 12) Assign to the group you want access to this printer in inTune
