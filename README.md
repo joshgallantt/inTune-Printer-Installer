@@ -7,7 +7,7 @@ An example printer file is included for reference. If you would like to test usi
 ## Guide
 
 1) Download the inTune Content Prep Tool executable from https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool
-2) Each Printer file will need a Driver folder containing the driver (including .inf), a unique copy of the .ps1, a copy of the .cmd
+2) Each Printer file will need a Driver folder containing the driver files (including .inf), a unique copy of the .ps1, a copy of the .cmd
 3) Edit the script.ps1 file to configure whatever printer you are installing
 4) Run IntuneWinAppUtil.exe
     <br>a) Source folder will be the path to the printer file ex: Users/Desktop/HP Color LaserJet Pro M252
