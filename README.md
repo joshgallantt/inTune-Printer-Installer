@@ -8,10 +8,10 @@ Adds printers to inTune/My Company Portal
 2) Each Printer file will need a Driver folder containing the driver (including .inf), a copy of the script, a copy of the cmd
 3) Edit the script.ps1 file to match whatever printer you are installing
 4) Run IntuneWinAppUtil.exe
-    a) Source folder will be the path to the printer file ex: Users/Desktop/HP Color LaserJet Pro M252
-    b) Setup File will be the .cmd filename ex: HP Color LaserJet Pro M252.cmd
-    c) Output Folder will be same as printer file location (just press up arrow twice to reselect)
-    d) Select No to specify the catalog folder
+    <br>a) Source folder will be the path to the printer file ex: Users/Desktop/HP Color LaserJet Pro M252
+    <br>b) Setup File will be the .cmd filename ex: HP Color LaserJet Pro M252.cmd
+    <br>c) Output Folder will be same as printer file location (just press up arrow twice to reselect)
+    <br>d) Select No to specify the catalog folder
 
 5) A .intunewin file should have been generated using the printer drivers, script, and command file.
 6) Log in to Intune and select all Apps and Click to Add. Select App Type to “Windows app (Win32)”
