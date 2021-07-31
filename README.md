@@ -1,6 +1,6 @@
 # inTune Printer Installer
 
-Adds printers to inTune/My Company Portal
+Adds printers to inTune/My Company Portal so you can manage printers using group policies.
 
 An example printer file is included for reference. If you would like to test using this skip to step 5 using the included .intunewin file.
 
