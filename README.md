@@ -2,6 +2,8 @@
 
 Adds printers to inTune/My Company Portal
 
+An example printer file is included for reference. If you would like to test using this skip to step 5 using the included .intunewin file.
+
 ## Guide
 
 1) Download the inTune Content Prep Tool executable from https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool
