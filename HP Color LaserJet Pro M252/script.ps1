@@ -1,8 +1,8 @@
 ﻿<# Configure the Printer Here#>
 
 
-$name = "Tech Printer" <# Name the printer here #>
-$location = "Location Description Here"
+$name = "Tech Printer - HP Color LaserJet Pro M252 " <# Name the printer here #>
+$location = "Located in the Tech Department"
 $ipAddress = "203.0.113.12" <# The IP Address of the printer on the network #>
 $driverName = “HP Color LaserJet Pro M252 PCL 6”  <# Needs to be specific. You find this in the drivers .inf file #>
 $driverPath = “$PSScriptRoot\Driver” <# Folder with all the driver files in i #>
