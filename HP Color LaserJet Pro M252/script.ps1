@@ -5,7 +5,7 @@ $name = "Tech Printer - HP Color LaserJet Pro M252 " <# Name the printer here #>
 $location = "Located in the Tech Department"
 $ipAddress = "203.0.113.12" <# The IP Address of the printer on the network #>
 $driverName = “HP Color LaserJet Pro M252 PCL 6”  <# Needs to be specific. You find this in the drivers .inf file #>
-$driverPath = “$PSScriptRoot\Driver” <# Folder with all the driver files in i #>
+$driverPath = “$PSScriptRoot\Driver” <# Folder with all the driver files in it #>
 $driverInf = “$PSScriptRoot\Driver\hpor3c2a_x64.inf” <# .inf File location #>
 
 function update-status{
